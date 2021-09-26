@@ -6,4 +6,4 @@ Do take note of the README.md file in the folder; it shows how you can reduce th
 Original can be found here: https://github.com/embeddedartistry/arduino-printf  
 I recommend you download the latest code from there. This snapshot is here in case it disappears.  
 
-As the author if this library states, "This code leverages the wonderful [mpaland/printf](https://github.com/mpaland/printf) library".  
+As the author of this library states, "This code leverages the wonderful [mpaland/printf](https://github.com/mpaland/printf) library".  
