@@ -10,5 +10,6 @@ Now you can ditch those awful **Serial.print** statements and start using a real
 It's very easy to use and there's plenty of examples on the cplusplus website too:  
 https://www.cplusplus.com/reference/cstdio/printf/
 
-![BuyMeASmallCoffee](https://user-images.githubusercontent.com/20911308/135294953-2fa1302a-fbe3-4117-b0a4-8ac5d297bd80.gif)  
+<img src="https://user-images.githubusercontent.com/20911308/135296246-f216aa5b-0567-4aa8-b1b3-30a3ed92373b.gif" align="left">
+<br />
 <a href="https://buymeacoffee.com/ralphbacon" target="_blank">You can support me by buying me a coffee!</a>
