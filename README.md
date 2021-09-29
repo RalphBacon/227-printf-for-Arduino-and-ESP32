@@ -9,3 +9,6 @@ Now you can ditch those awful **Serial.print** statements and start using a real
 
 It's very easy to use and there's plenty of examples on the cplusplus website too:  
 https://www.cplusplus.com/reference/cstdio/printf/
+
+![BuyMeASmallCoffee](https://user-images.githubusercontent.com/20911308/135294953-2fa1302a-fbe3-4117-b0a4-8ac5d297bd80.gif)  
+<a href="https://buymeacoffee.com/ralphbacon" target="_blank">You can support me by buying me a coffee!</a>
