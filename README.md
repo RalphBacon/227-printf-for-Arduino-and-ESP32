@@ -1,7 +1,8 @@
 # #227 printf for Arduino (and ESP32)
 Formatted output in one easy-to-use line of code
 
-![227 Thumbnail small](https://user-images.githubusercontent.com/20911308/134812254-aa047ac5-401a-4a17-9764-64d57b17daff.jpg)
+![227 Thumbnail small](https://user-images.githubusercontent.com/20911308/134812254-aa047ac5-401a-4a17-9764-64d57b17daff.jpg)  
+### Youtube video link: https://youtu.be/6EWcv5l51xA
 
 Until now, the Arduino has not had the **printf** function, unlike the ESP32/ESP8266 which has it built-in.
 
