@@ -16,6 +16,36 @@ The **demo sketch** that I used in the video is also included above, just so you
 <img src="https://user-images.githubusercontent.com/20911308/135296246-f216aa5b-0567-4aa8-b1b3-30a3ed92373b.gif" align="left">
 <br />  
 <a href="https://buymeacoffee.com/ralphbacon" target="_blank">You can now support me by buying me a coffee!</a>  
-<br>  
-<br>  
 <br>
+<br>
+.  
+
+► READING  
+Refresher reading on Arduino's Serial.print  
+https://www.arduino.cc/reference/en/language/functions/communication/serial/print/  
+
+cplusplus.com website all about printf (and everything else C++)  
+https://www.cplusplus.com/reference/cstdio/printf/  
+
+cplusplus.com all about sprintf (printing to a string)  
+https://www.cplusplus.com/reference/cstdio/sprintf/  
+
+► CODING  
+Download: Embedded artistry's modified printf for the Arduino  
+https://github.com/embeddedartistry/arduino-printf
+
+Reference: Marco Paland's original printf (on which the above is based)  
+https://github.com/mpaland/printf
+
+► List of all my videos  
+(Special thanks to Michael Kurt Vogel for compiling this)   
+http://bit.ly/YouTubeVideoList-RalphBacon 
+
+► If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite (and other μControllers) journey  
+
+#### My channel, GitHub and blog are here:  
+\------------------------------------------------------------------  
+• https://www.youtube.com/RalphBacon  
+• https://ralphbacon.blog  
+• https://github.com/RalphBacon  
+\------------------------------------------------------------------  
