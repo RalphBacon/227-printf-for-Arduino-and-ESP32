@@ -49,5 +49,5 @@ http://bit.ly/YouTubeVideoList-RalphBacon
 • https://www.youtube.com/RalphBacon  
 • https://ralphbacon.blog  
 • https://github.com/RalphBacon  
-• https://bit.ly/BuyRalphACoffee
+• https://bit.ly/BuyRalphACoffee  
 \------------------------------------------------------------------  
